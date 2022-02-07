@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.uR8zP89bs5J4SichyMQw9AHaFU&pid=Api");
+    background-position: center;
+    background-size: contain;
+}
+h1{
+    color: white;
+}
+canvas{
+    background-color: white;
+    border: black solid 4px;
+}
